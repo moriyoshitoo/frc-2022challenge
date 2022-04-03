@@ -25,20 +25,20 @@
 var NAVTREE =
 [
   [ "frc-2022challenge", "index.html", [
-    [ "Classes", "annotated.html", [
-      [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ]
+    [ "クラス", "annotated.html", [
+      [ "クラス一覧", "annotated.html", "annotated_dup" ],
+      [ "クラス索引", "classes.html", null ],
+      [ "クラス階層", "hierarchy.html", "hierarchy" ],
+      [ "クラスメンバ", "functions.html", [
+        [ "全て", "functions.html", null ],
+        [ "関数", "functions_func.html", null ]
       ] ]
     ] ],
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Functions", "globals_func.html", null ]
+    [ "ファイル", "files.html", [
+      [ "ファイル一覧", "files.html", "files_dup" ],
+      [ "ファイルメンバ", "globals.html", [
+        [ "全て", "globals.html", null ],
+        [ "関数", "globals_func.html", null ]
       ] ]
     ] ]
   ] ]
@@ -49,5 +49,5 @@ var NAVTREEINDEX =
 "_collector_8cpp.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'クリックで同期表示が無効になります';
+var SYNCOFFMSG = 'クリックで同期表示が有効になります';
